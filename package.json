@@ -1,0 +1,8 @@
+{
+  "name": "vite-ethers",
+  "version": "0.1.0",
+  "description": "A test",
+  "scripts": {
+    "dev": "pnpm --filter vite-ethers-web dev"
+  }
+}
